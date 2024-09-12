@@ -120,6 +120,7 @@
       },
       "original": {
         "owner": "~jonsterling",
+        "ref": "4.3.1",
         "repo": "ocaml-forester",
         "type": "sourcehut"
       }

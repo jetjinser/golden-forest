@@ -6,7 +6,7 @@
     flake-parts.url = "github:hercules-ci/flake-parts";
 
     forester = {
-      url = "sourcehut:~jonsterling/ocaml-forester";
+      url = "sourcehut:~jonsterling/ocaml-forester/4.3.1";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
