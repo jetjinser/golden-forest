@@ -1,7 +1,7 @@
 \title{Golden Forest for show all syntax}
 \author{jinser}
 
-\p{Written with reference to [jon's tree](https://git.sr.ht/~jonsterling/public-trees/).}
+\p{Written with reference to [Jon’s trees](https://git.sr.ht/~jonsterling/public-trees/).}
 
 \transclude{comment}
 \transclude{prim}
