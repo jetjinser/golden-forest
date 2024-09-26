@@ -11,7 +11,7 @@
 }
 
 \scope{
-  \put\transclude/title{foooo}
+  \put\transclude/toc{false}
   \transclude{jinser}
 }
 
